@@ -12,13 +12,13 @@ https://templatemo.com/tm-578-first-portfolio
 -----------------------------------------*/
 :root {
   --white-color:                  #ffffff;
-  --primary-color:                #535da1;
+  --primary-color:                #FF8C00;
   --secondary-color:              #14B789;
   --section-bg-color:             #f9f9f9;
   --dark-color:                   #000000;
-  --p-color:                      #717275;
+  --p-color:                      #343333;
   --border-color:                 #e9eaeb;
-  --featured-border-color:        #727aab;
+  --featured-border-color:        #72e3ca;
 
   --body-font-family:             'DM Sans', sans-serif;
 
@@ -72,6 +72,7 @@ h6 {
 h1 {
   font-size: var(--h1-font-size);
   letter-spacing: -3px;
+
 }
 
 h2 {
@@ -394,7 +395,7 @@ strong {
 
 .navbar-nav .nav-link.active, 
 .navbar-nav .nav-link:hover {
-  color: var(--secondary-color);
+  color: var(--dark-color);
 }
 
 .navbar-toggler {
@@ -500,15 +501,14 @@ strong {
 
 .hero-text {
   position: relative;
-  z-index: 22;
-  top: 70px;
+  z-index: 20;
+  top: 150px;
 }
 
 .hero-image-wrap {
-  background: var(--white-color);
   border-radius: 100%;
-  width: 350px;
-  height: 350px;
+  width: 250px;
+  height: 250px;
   position: absolute;
   z-index: 22;
   top: -50px;
@@ -519,7 +519,7 @@ strong {
 }
 
 .hero-image {
-  position: absolute;
+  position: inherit;
   z-index: 22;
   top: 0;
   width: 100%;
@@ -1030,8 +1030,8 @@ strong {
   }
 
   .section-padding {
-    padding-top: 80px;
-    padding-bottom: 80px;
+    padding-top: 90px;
+    padding-bottom: 90px;
   }
 
   .custom-btn,
