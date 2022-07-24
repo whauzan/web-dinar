@@ -272,12 +272,6 @@ function App() {
                   <p className="mb-2">
                    Dinar a student at the telkom universcity
                   </p>
-                  <strong className="site-footer-title d-block mt-4 mb-3">Email</strong>
-                  <p>
-                    <a href="mailto:bintandinartamevia@gmail.com">
-                    bintandinartamevia@gmail.com
-                    </a>
-                  </p>
                   <strong className="site-footer-title d-block mt-4 mb-3">Call</strong>
                   <p className="mb-0">
                     <a href="tel: +6281213420493">
