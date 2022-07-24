@@ -171,6 +171,8 @@ function App() {
 
 
 
+        {/* ini blogger */}
+        
         <section className="projects section-padding" id="section_4">
           <div className="container">
             <div className="row">
@@ -186,13 +188,16 @@ function App() {
               <div className="clearfix"></div>
               <div className="col-lg-4 col-md-6 col-12">
                 <div className="projects-thumb">
-                  <div className="projects-info">
-                      <small className="projects-tag"><a href="#">Read</a></small>
-                      <h3 className="projects-title">How To Look Time</h3>
-                  </div>
-                  <a href="images/projects/nikhil-KO4io-eCAXA-unsplash.jpg" className="popup-image">
-                    <img src="images/projects/nikhil-KO4io-eCAXA-unsplash.jpg" className="projects-image img-fluid" alt="" />
+                 <a href="images/projects/true-agency-9Bjog5FZ-oc-unsplash.jpg" className="popup-image">
+                    <img src="images/projects/true-agency-9Bjog5FZ-oc-unsplash.jpg" className="projects-image" alt="" />
                   </a>
+
+                  <div className="projects-info">
+                    <h3 className="projects-title">How To Look Time</h3>
+                    <p>Once upon time i go to jakarta and look time</p>
+                    <h4 className="projects-tag"><a href="#">Read More</a></h4>
+                     
+                  </div>
                 </div>
               </div>
 
@@ -201,35 +206,41 @@ function App() {
 
               <div className="col-lg-4 col-md-6 col-12">
                 <div className="projects-thumb">
-                  <div className="projects-info">
-                     <small className="projects-tag"><a href="#">Read</a></small>
-                      <h3 className="projects-title">How To Look Time</h3>
-                  </div>
-
-                  <a href="images/projects/the-5th-IQYR7N67dhM-unsplash.jpg" className="popup-image">
-                    <img src="images/projects/the-5th-IQYR7N67dhM-unsplash.jpg" className="projects-image img-fluid" alt="" />
+                 <a href="images/projects/true-agency-9Bjog5FZ-oc-unsplash.jpg" className="popup-image">
+                    <img src="images/projects/true-agency-9Bjog5FZ-oc-unsplash.jpg" className="projects-image" alt="" />
                   </a>
+
+                  <div className="projects-info">
+                    <h3 className="projects-title">How To Look Time</h3>
+                    <p>Once upon time i go to jakarta and look time</p>
+                    <h4 className="projects-tag"><a href="#">Read More</a></h4>
+                     
+                  </div>
                 </div>
               </div>
 
 
 
-
               <div className="col-lg-4 col-md-6 col-12">
                 <div className="projects-thumb">
-                  <div className="projects-info">
-                    <small className="projects-tag"><a href="#">Read</a></small>
-                      <h3 className="projects-title">How To Look Time</h3>
-                  </div>
-
                   <a href="images/projects/true-agency-9Bjog5FZ-oc-unsplash.jpg" className="popup-image">
-                    <img src="images/projects/true-agency-9Bjog5FZ-oc-unsplash.jpg" className="projects-image img-fluid" alt="" />
+                    <img src="images/projects/true-agency-9Bjog5FZ-oc-unsplash.jpg" className="projects-image" alt="" />
                   </a>
+
+                  <div className="projects-info">
+                    <h3 className="projects-title">How To Look Time</h3>
+                    <p>Once upon time i go to jakarta and look time</p>
+                    <h4 className="projects-tag"><a href="#">Read More</a></h4>
+                     
+                  </div>
+
                 </div>
               </div>
             </div>
           </div>
         </section>
+
+
 
         <section className="contact section-padding" id="section_5">
           <div className="container">
