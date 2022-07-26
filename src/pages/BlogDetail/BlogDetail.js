@@ -41,9 +41,9 @@ export default function BlogDetail() {
       )}
       <Navbar token={token} />
       <div className="blog">
-        <div className="content">
+        <div className="content text-white">
           <div className="d-flex align-items-center">
-            <h3>{blogs?.title}</h3>
+            <h3 className="text-white">{blogs?.title}</h3>
             {token && (
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -66,7 +66,7 @@ export default function BlogDetail() {
               </svg>
             )}
           </div>
-          <p>{blogs?.content}</p>
+          <p className="text-white">{blogs?.content}</p>
           <div className="d-flex align-items-center">
             <svg
               xmlns="http://www.w3.org/2000/svg"
