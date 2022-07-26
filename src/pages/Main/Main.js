@@ -177,11 +177,7 @@ export default function Main() {
                       href="images/projects/true-agency-9Bjog5FZ-oc-unsplash.jpg"
                       className="popup-image"
                     >
-                      <img
-                        src="images/projects/true-agency-9Bjog5FZ-oc-unsplash.jpg"
-                        className="projects-image"
-                        alt=""
-                      />
+
                     </a>
 
                     <div className="projects-info">
