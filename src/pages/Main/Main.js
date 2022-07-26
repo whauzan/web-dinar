@@ -199,6 +199,7 @@ export default function Main() {
           </div>
         </section>
 
+
         <section className="contact section-padding" id="section_5">
           <div className="container">
             <div className="row">
@@ -221,19 +222,19 @@ export default function Main() {
                   <ul className="social-icon">
                     <li className="social-icon-item">
                       <a
-                        href="https://twitter.com/minthu"
+                        href="https://twitter.com/"
                         className="social-icon-link bi-twitter"
                       ></a>
                     </li>
+
                     <li className="social-icon-item">
-                      <a href="#" className="social-icon-link bi-instagram"></a>
+                      <a href="https://instagram.com/" className="social-icon-link bi-instagram"></a>
                     </li>
-                    <li className="social-icon-item">
-                      <a href="#" className="social-icon-link bi-pinterest"></a>
-                    </li>
+
+
                     <li className="social-icon-item">
                       <a
-                        href="https://www.youtube.com/templatemo"
+                        href="https://www.youtube.com/"
                         className="social-icon-link bi-youtube"
                       ></a>
                     </li>
