@@ -47,7 +47,7 @@ export default function Navbar({ token }) {
             </li>
 
             <li className="nav-item">
-              <a className="nav-link click-scroll" href="#section_2">
+              <a className="nav-link click-scroll" href="#section_1">
                 About Me
               </a>
             </li>
