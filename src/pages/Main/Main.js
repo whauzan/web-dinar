@@ -63,7 +63,7 @@ export default function Main() {
           </div>
         </section>
 
-        <section className="featured section-padding">
+        <section className="featured section-padding"  id="section_2">
           <div className="container">
             <div className="row">
               <div className="col-lg-6 col-12">
